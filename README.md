@@ -62,7 +62,7 @@ The testing and validation scripts were engineered to maximize the final hackath
 ---
 
 ## Comparision
-![](comparasions/0000089_compare.png)
+![](comparison/0000089_compare.png)
 
 ## Class Metrices
 ![](class_metrices/per_class_metrics.png)
